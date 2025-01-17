@@ -1,0 +1,5 @@
+name = input("What's your name? ")
+print (f"Hey, {name}")
+today = input ("How are you doing today? ")
+print (f"It looks like you are doing {today}")
+print (f"I'm glad to hear it, {name}!")
